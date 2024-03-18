@@ -9,7 +9,7 @@ The data is collected from the Kaggle website. The data is in the form of a CSV 
 -**Mage** : For orchestration  <br>
 -**Dockers** : For containerization  <br>
 -**GCS** : Data Lake  <br>
--**BigQuery** : For data warehousing   <br>   
+-**BigQuery** : For data warehousing<br>
 -**DBT** : For transformation  <br>
 -**Tableau** : For visualization  <br>
 ## Data Engineering Pipeline
