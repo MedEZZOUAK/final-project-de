@@ -6,12 +6,12 @@ The project is about analyzing the sales of video games from different platforms
 ## Data Source
 The data is collected from the Kaggle website. The data is in the form of a CSV file. [kaagle](https://www.kaggle.com/gregorut/videogamesales)
 ## Data Engineering Tools
--**Mage** : For orchestration  
--**Dockers** : For containerization  
--**GCS** : Data Lake  
--**BigQuery** : For data warehousing      
--**DBT** : For transformation  
--**Tableau** : For visualization  
+-**Mage** : For orchestration  <br>
+-**Dockers** : For containerization  <br>
+-**GCS** : Data Lake  <br>
+-**BigQuery** : For data warehousing   <br>   
+-**DBT** : For transformation  <br>
+-**Tableau** : For visualization  <br>
 ## Data Engineering Pipeline
 The data engineering pipeline is as follows:
 1. The data is collected from the Kaggle website.
